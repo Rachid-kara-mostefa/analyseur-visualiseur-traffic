@@ -27,3 +27,6 @@ La visualisation se trouve dans l'interface graphique.
 
 ![visu 0](https://github.com/Rachid-kara-mostefa/analyseur-visualiseur-traffic/assets/153507294/45f2df66-64bc-4fe0-9f59-c68003d851b2)
 
+On peut filtrer les informations comme sur wireshark.
+
+![visu 1 filtre](https://github.com/Rachid-kara-mostefa/analyseur-visualiseur-traffic/assets/153507294/3e1bd0f7-677d-4983-81e5-9c94bc1f66ac)
