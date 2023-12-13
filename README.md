@@ -16,5 +16,8 @@ Ce projet permet d'analyser des trames de données capturé avec Wireshark, et d
  Exemple d'éxecution:
 
  On donne en entrée le chemin vers le fichier .txt qui contient les trames de données.
-
  ![exec 0 cmd](https://github.com/Rachid-kara-mostefa/analyseur-visualiseur-traffic/assets/153507294/8c266232-d155-42ce-812b-4afd650efcc2)
+
+L'analyse des trames de données se trouve dans le fichier "destination.txt" créé par le programme.
+![trame 1](https://github.com/Rachid-kara-mostefa/analyseur-visualiseur-traffic/assets/153507294/ebceee8c-7d07-4777-ad8f-7a9d25f0b430)
+![trame 1-](https://github.com/Rachid-kara-mostefa/analyseur-visualiseur-traffic/assets/153507294/94acc24b-e0c3-49ca-a1f1-ecb377a3dba2)
